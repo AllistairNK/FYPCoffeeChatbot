@@ -1,0 +1,82 @@
+What are the categories of products?
+The product categories are Handcrafted Coffee, Frappe, Signature Coffee Club, Non Coffee, Pie and Pastry, Desert Sweet Tooth, and Promotion.
+What are the products?
+The products are categorised in Handcrafted Coffee, Frappe, Signature Coffee Club, Non Coffee, Pie and Pastry, Desert Sweet Tooth, and Promotion.
+I am ready to order.
+The product categories are Handcrafted Coffee, Frappe, Signature Coffee Club, Non Coffee, Pie and Pastry, Desert Sweet Tooth, and Promotion.
+I want to order.
+The product categories are Handcrafted Coffee, Frappe, Signature Coffee Club, Non Coffee, Pie and Pastry, Desert Sweet Tooth, and Promotion.
+What is in Handcrafted Coffee?
+The products in Handcrafted Coffee are Ice Shakerato, Americano, Cafe Latte, Machiato, Dolce Latte, Coffee Mocha, Espresso, and Vietnamese Coffee.
+What is in Frappe?
+The products in Frappe are Caramel Creme, Choc Chip Creme and Mocha Creme.
+What is in Signature Coffee Club?
+The products in Signature Coffee Club are Blue Pea Latte, Biscoff Creme and Houjicha Frappe.
+What is in Non Coffee?
+The products in Non Coffee are Milk Creme, Icey Lemonade, Jasmine Green Tea, Peach Tea, Blue Lagoon and Chocolate.
+What is in Pie and Pastry?
+The products in Pie and Pastry are Signiture Steak Beef Pie, Chicken Mushroom Quiches, Smoked Chicken Pie, Smoke Beef Pie and Burnt Cheese Cake.
+What is in Desert Sweet Tooth?
+The products in Desert Sweet Tooth are Peanut Butter Jam Cupcake, Red Velvet Cupcake, Gula Apong Cupcake and Doughnut Jumbo.
+What is in Promotion?
+The products in Promotion is only Mini Cake Set.
+What is Ice Shakerato?
+It is an Arabica dark roast 100% costing RM5.90
+What is Americano?
+It is Espresso and water costing RM 6.90
+What is Cafe Latte?
+It is espresso, milk and foam costing RM7.90
+What is Machiato?
+It is a beverage costing RM8.90
+What is Dolce Latte?
+It is a beverage costing RM8.90
+What is Coffee Mocha?
+It is a coffee with chocolate taste costing RM9.90
+What is Espresso?
+It is a beverage costing RM4.90
+What is Vietnamese Coffee?
+It is a beverage costing RM8.90
+What is Caramel Creme?
+It is caramel blended with milk costing RM11.90
+What is Choc Chip Creme?
+It is chocolate chip blended with milk costing RM11.90
+What is Mocha Creme?
+It is chocolate espresso blended with milk costing RM12.90
+What is Blue Pea Latte?
+It is a beverage costing RM9.90
+What is Biscoff Creme?
+It is a beverage costing RM12.90
+What is Houjicha Frappe?
+It is roasted green tea frappe with whipped cream costing RM12.90
+What is Milk Creme?
+It is a beverage costing RM5.90
+What is Icey Lemonade?
+It is a beverage costing RM6.90
+What is Jasmine Green Tea?
+It is a beverage costing RM6.90
+What is Peach Tea?
+It is a beverage costing RM6.90
+What is Blue Lagoon?
+It is a beverage costing RM7.90
+What is Chocolate?
+It is a beverage costing RM9.90
+What is Signiture Steak Beef Pie?
+It is a pie consisting of beef chunky meat, onion, herbs, pepper and salt costing RM7.50
+What is Chicken Mushroom Quiches?
+It is a pastry consisting of chicken meat, mushroom cheese, onion, fresh cream, egg and milk costing RM6.50
+What is Smoked Chicken Pie?
+It is a pie costing RM6.50
+What is Smoke Beef Pie?
+It is a pie costing RM6.90
+What is Burnt Cheese Cake?
+It is a pastry costing RM5.90
+What is Peanut Butter Jam Cupcake?
+It is a desert consisting of Peanut butter, Butter and caramel costing RM4.50
+What is Red Velvet Cupcake?
+It is a desert with mild chocolate flavour and a deep red to burgundy colour costing RM4.50
+What is Gula Apong Cupcake?
+It is a desert consisting of gula apong and pandan flavouring costing RM4.50
+What is Doughnut Jumbo?
+It is a desert costing RM3.50
+What is Mini Cake Set?
+It is a mini cake set from tecouldron costing RM7.50
