@@ -16,7 +16,8 @@ chatbot = ChatBot(
     database_uri='sqlite:///database.sqlite3'
 ) 
  #training
-training_data_coffee = open('D:/FYP/CoffeeChatbot/CoffeeChatbot/app/trainingData/coffee_ques_ans.txt').read().splitlines()
+abs_file_path = os.path.abspath('./app/trainingData/coffee_ques_ans.txt');
+training_data_coffee = open(abs_file_path).read().splitlines()
 
 training_data = training_data_coffee
 
